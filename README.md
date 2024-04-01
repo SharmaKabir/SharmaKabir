@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hello, I am Kabir Sharma</h1>
-<h3 align="center">A second year computer science engineering student.</h3>
+<h1 align="center">Hello, I am Kabir Sharma,</h1>
+<h3 align="center">second year computer science engineering student.</h3>
 
 - 🔭 I’m currently working on InfinityScroll
 
-- 🌱 I’m currently learning **TypeScript, Node.js, React.js, Tailwind**
+- 🌱 I’m currently learning **JavaScript**
 
 - 📫 How to reach me: **sharmakabir204@gmail.com, +91-8447959131**
 
