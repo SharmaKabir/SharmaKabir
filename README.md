@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hello, I am Kabir Sharma,</h1>
 <h3 align="center">second year computer science engineering student.</h3>
 
-- 🔭 I’m currently working on InfinityScroll
+- 🔭 I’m currently working on SmartEye
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me: **sharmakabir204@gmail.com, +91-8447959131**
 
