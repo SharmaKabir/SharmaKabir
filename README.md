@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hello, I am Kabir Sharma,</h1>
-<h3 align="center">second year computer science engineering student.</h3>
+<h3 align="center">pre-final year computer science engineering student.</h3>
 
 - 🔭 I’m currently working on SmartEye
 
